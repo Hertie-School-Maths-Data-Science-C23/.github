@@ -28,4 +28,4 @@ actions is on the **[org home page](https://github.com/Hertie-School-Maths-Data-
   cohort's own `classroom-config`.
 - `profile/README.md` - the public org landing page (auto-generated repo index).
 
-Built and kept in sync by the [DSL teaching toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-course-setup).
+Built and kept in sync by the [DSL teaching toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-toolkit).
