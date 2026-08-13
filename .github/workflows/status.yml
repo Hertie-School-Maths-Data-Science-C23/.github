@@ -11,7 +11,7 @@ on:
         required: true
         type: choice
         options:
-          - (none-yet)
+          - Hertie-School-Maths-Data-Science-f2026
 
 jobs:
   check-team:

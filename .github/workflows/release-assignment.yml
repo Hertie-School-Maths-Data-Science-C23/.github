@@ -15,7 +15,7 @@ on:
         required: true
         type: choice
         options:
-          - (none-yet)
+          - Hertie-School-Maths-Data-Science-f2026
       assignment:
         description: "Assignment template repo (e.g. assignment-1-f2026)"
         required: true
