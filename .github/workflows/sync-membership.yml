@@ -18,7 +18,7 @@ on:
         default: "(faculty only)"
         options:
           - (faculty only)
-          - Hertie-School-Maths-Data-Science-f2026
+          - hertie-maths-data-science-f2026
 
 jobs:
   check-team:

@@ -21,7 +21,7 @@ on:
         required: true
         type: choice
         options:
-          - Hertie-School-Maths-Data-Science-f2026
+          - hertie-maths-data-science-f2026
       course_source_repo:
         description: "Course-org repo to hand out from (e.g. assignment-1-f2026)"
         required: true
