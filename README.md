@@ -1,15 +1,15 @@
 # Maths for Data Science - course control panel
 
-This is the **`.github` repo** for the `Hertie-School-Maths-Data-Science-C23` course org - the control panel faculty & instructors use to run
+This is the **`.github` repo** for the `hertie-maths-data-science-C23` course org - the control panel faculty & instructors use to run
 the course. **You never need a CLI or to write code: every action is a clickable UI button.**
 
 ## Run an action
 
-Open the **[Actions tab](https://github.com/Hertie-School-Maths-Data-Science-C23/.github/actions)**, pick a workflow, and click
+Open the **[Actions tab](https://github.com/hertie-maths-data-science-C23/.github/actions)**, pick a workflow, and click
 **Run workflow**. Buttons only show if you have write access - you're in this org's
 `course-admin` team (declared here, course-wide), or a cohort's `instructors-<tag>` team
 (declared in that cohort's own `classroom-config/people.yml`). The full, annotated list of
-actions is on the **[org home page](https://github.com/Hertie-School-Maths-Data-Science-C23)**.
+actions is on the **[org home page](https://github.com/hertie-maths-data-science-C23)**.
 
 ## Typical flow
 
