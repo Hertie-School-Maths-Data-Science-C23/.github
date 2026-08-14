@@ -20,6 +20,7 @@ on:
         description: "Cohort org (submissions)"
         required: true
         type: choice
+        default: "hertie-maths-data-science-f2026"
         options:
           - hertie-maths-data-science-f2026
       course_source_repo:

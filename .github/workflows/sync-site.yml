@@ -15,6 +15,7 @@ on:
         description: "Cohort whose site to regenerate from the org structure"
         required: true
         type: choice
+        default: "hertie-maths-data-science-f2026"
         options:
           - hertie-maths-data-science-f2026
 

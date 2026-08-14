@@ -10,6 +10,7 @@ on:
         description: "Cohort org"
         required: true
         type: choice
+        default: "hertie-maths-data-science-f2026"
         options:
           - hertie-maths-data-science-f2026
       dry_run:
